@@ -20,12 +20,6 @@ This project aims to develop a predictive model to enhance lead conversion rates
 3. Model Evaluation: Predict probabilities, analyze metrics, and optimize the cutoff threshold for better results.
 4. Deployment: Integrate the model into marketing workflows to predict and improve lead conversion.
 
- Files Included:
-- `data_preprocessing.py`: Scripts for cleaning and preparing the data.
-- `model_building.py`: Code for building and evaluating the logistic regression model.
-- `visualizations.py`: Scripts for generating visualizations such as ROC curves and precision-recall curves.
-- `README.md`: Project documentation and instructions.
-
  Dependencies:
 - `pandas`
 - `numpy`
